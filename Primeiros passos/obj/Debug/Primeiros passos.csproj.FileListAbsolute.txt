@@ -1,0 +1,7 @@
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\obj\Debug\Primeiros passos.csprojAssemblyReference.cache
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\obj\Debug\Primeiros passos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\bin\Debug\Primeiros passos.exe.config
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\bin\Debug\Primeiros passos.exe
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\bin\Debug\Primeiros passos.pdb
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\obj\Debug\Primeiros passos.exe
+C:\Users\Marcos Anacleto\source\repos\Primeiros passos\Primeiros passos\obj\Debug\Primeiros passos.pdb
